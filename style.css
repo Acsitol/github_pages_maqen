@@ -1,6 +1,6 @@
 @charset “utf-8”;
-body{
-  background: linear-gradient(to bottom, #000000 0%, orange #888888);
+body {
+  background: linear-gradient(to bottom, #000000 0%, #888888 100%)
 } 
 #hedder1 {
 	font-size: 200px;
