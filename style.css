@@ -31,5 +31,6 @@ a{
 }
 button{
         background: #04b879;
-        width: 200px
+        width: 100%;
+        font-size: 30px
 }
