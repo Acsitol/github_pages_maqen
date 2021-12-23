@@ -1,6 +1,7 @@
 @charset “utf-8”;
 body {
-        background-color: #e1ffc9
+        background-color: #000000;
+        text-shadow: 1px 1px 2px FFFFFF, 0 0 1em #FFFFFF, 0 0 0.2em #FFFFFF
 } 
 #hedder1 {
 	font-size: 200px;
@@ -33,5 +34,6 @@ a{
 button{
         background: #04b879;
         width: 500px;
-        height: 80px
+        height: 80px;
+        font-size: 70px
 }
