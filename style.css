@@ -1,5 +1,6 @@
 @charset “utf-8”;
 body {
+        font-family: 'IM Fell DW Pica SC', serif;
 	background-color: #000000;
 	box-shadow: 1px 1px 2px FFFFFF, 0 0 1em #FFFFFF, 0 0 0.2em #FFFFFF
 }
@@ -35,5 +36,5 @@ button {
 	background: #04b879;
 	width: 500px;
 	height: 80px;
-	font-size: 70px
+	font-size: 50px
 }
