@@ -34,3 +34,8 @@ a {
 	font-size: 36px;
 	padding-left: 20px
 }
+.back {
+        position: absolute;
+        top: 50px;
+        right: 20px
+} 
