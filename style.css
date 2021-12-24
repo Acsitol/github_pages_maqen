@@ -6,7 +6,7 @@ body {
 	background-color: #000000;
 	box-shadow: 1px 1px 2px FFFFFF, 0 0 2em #FFFFFF, 0 0 0.4em #FFFFFF
 }
-#hedder1 {
+.hedder1 {
 	font-size: 200px;
 	font-weight: 800;
 	color: #005500;
@@ -14,7 +14,7 @@ body {
 	text-shadow: 1px 1px 2px #b0ff8f, 0 0 1em #b0ff8f, 0 0 0.2em #b0ff8f;
 	position: relative
 }
-#hedder2 {
+.hedder2 {
 	font-family: 'Anton', sans-serif;
 	font-size: 78px;
 	color: #04b879;
