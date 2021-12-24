@@ -37,14 +37,15 @@ a {
 .one {
 	margin-bottom: 5em
 }
+.back {
+        width: 80px;
+        position: absolute;
+        top: 20px;
+        right: 10px
+}
 button {
 	background: #04b879;
 	width: 500px;
 	height: 80px;
 	font-size: 50px
-}
-.back {
-        position: absolute;
-        top: 20px;
-        right: 10px
 }
