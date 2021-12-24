@@ -44,8 +44,7 @@ button {
 	font-size: 50px
 }
 .back {
-        font-size: 80px;
         position: absolute;
-        top: 5px;
-        right: 5px
+        top: 20px;
+        right: 10px
 }
