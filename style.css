@@ -11,7 +11,8 @@ body {
 	font-weight: 800;
 	color: #005500;
 	background-color: #04b879;
-	text-shadow: 1px 1px 2px #b0ff8f, 0 0 1em #b0ff8f, 0 0 0.2em #b0ff8f
+	text-shadow: 1px 1px 2px #b0ff8f, 0 0 1em #b0ff8f, 0 0 0.2em #b0ff8f;
+        position: relative
 }
 #hedder2 {
         font-family: 'Anton', sans-serif;
@@ -41,4 +42,9 @@ button {
 	width: 500px;
 	height: 80px;
 	font-size: 50px
+}
+.back {
+        position: absolute;
+        top: 5px;
+        right: 5px
 }
