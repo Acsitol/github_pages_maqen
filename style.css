@@ -37,6 +37,8 @@ a {
         vertical-align: middle;
         top: 20px;
         width: 100px;
+        position: fixed;
+        bottom: 0;
         height: 100px
 } 
 button {
