@@ -42,7 +42,9 @@ a {
         height: 100px
 } 
 button {
+        font-size: 80px;
+        color: #04b879;
+        background: #04b879;
         width: 800px;
-        height: 100px;
-        color: #04b879
+        height: 100px
 }
