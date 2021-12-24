@@ -36,15 +36,15 @@ a {
 }
 .back {
         position: absolute;
-        top: 50px;
+        top: 20px;
         right: 20px;
         width: 100px;
         height: 100px
 } 
 button {
-        font-size: 80px;
+        font-size: 76px;
         color: #04b879;
-        background-color: #04b879;
+        background-color: #005500;
         width: 800px;
         height: 100px
 }
