@@ -35,6 +35,10 @@ a {
 	font-size: 36px;
 	padding-left: 20px
 }
+.menu {
+        position: fixed;
+        bottom: 0
+}
 .back {
         vertical-align: middle;
         top: 20px;
