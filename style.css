@@ -11,8 +11,7 @@ body {
 	font-weight: 800;
 	color: #005500;
 	background-color: #04b879;
-	text-shadow: 1px 1px 2px #b0ff8f, 0 0 1em #b0ff8f, 0 0 0.2em #b0ff8f;
-	position: relative
+	text-shadow: 1px 1px 2px #b0ff8f, 0 0 1em #b0ff8f, 0 0 0.2em #b0ff8f
 }
 .hedder2 {
 	font-family: 'Anton', sans-serif;
@@ -35,9 +34,7 @@ a {
 	padding-left: 20px
 }
 .back {
-        position: absolute;
         top: 20px;
-        display: line-block;
         width: 100px;
         height: 100px
 } 
