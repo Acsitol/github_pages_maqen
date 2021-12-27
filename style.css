@@ -46,10 +46,13 @@ a {
         width: 100px;
         height: 100px
 } 
+.back:hover {
+        background-color: #90d6a2;
+}
 button {
         font-size: 70px;
         color: #04b879;
-        background-color: #005500;
+        background-color: #659e74;
         width: 800px;
         height: 100px
 }
