@@ -21,6 +21,7 @@ body {
 	font-family: 'Anton', sans-serif;
 	font-size: 78px;
 	color: #04b879;
+        background-color: #005500;
 	vertical-align: top
 }
 h1 {
@@ -44,12 +45,12 @@ a {
         height: 100px
 } 
 .back:hover {
-        background-color: #90d6a2;
+        background-color: #04b879;
 }
 button {
         font-size: 70px;
         color: #000;
-        background-color: #659e74;
+        background-color: #005500;
         width: 800px;
         height: 100px
 }
