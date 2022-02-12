@@ -1,12 +1,13 @@
 @charset “utf-8”;
-@import url('https://fonts.googleapis.com/css?family=Sawarabi+Mincho');
-@import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Montserrat+Subrayada');
 @import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap');
 body {
-    background-color: whitesmoke
+    background-color: darkgreen
 }
-h1 {
+.back {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+h1	{
     font-family: 'Montserrat Subrayada', sans-serif;
     margin: 0px;
     background-size: auto;
@@ -14,8 +15,7 @@ h1 {
     color: white
 }
 h4 {
-    font-family: 'Montserrat Subrayada', sans-serif;
-    background-color: greenyellow;
+    background-color: ;
     margin: 0px;
     font-weight: 20px;
     color: darkgreen
@@ -42,10 +42,8 @@ p {
     margin: 5px;
     color: black
 }
-p.f {
-    color: white
-}
 a {
+    font-family: 'Klee One', cursive;
     margin: 5px;
     color: black
 }
@@ -55,28 +53,28 @@ a {
 }
 footer {
     width: 100%;
-    background-color: yellowgreen;
-    color: white;
+    background-color: rgba(255, 255, 255, 0.6);
+    color: darkgreen;
     padding-top: 20px
 }
 div.s {
     margin: 5px
 }
 .btn {
+    font-family: 'Klee One', cursive;
     margin: 2px;
     width: 47%;
     display: inline-block;
     border-radius: 5%;
     font-size: 70%;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.6);
     color: darkgreen;
     line-height: 2em;
     opacity: 1;
     transition: 0.5s;
-    box-shadow: 5px 5px 3px black;
     text-decoration: none;
     vertical-align: top
 }
 .btn:hover {
-    background-color: lightgreen
+    background-color: greenyellow
 }
